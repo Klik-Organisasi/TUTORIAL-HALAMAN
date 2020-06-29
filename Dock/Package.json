@@ -1,0 +1,15 @@
+Cache-Control: no-cache
+Content-Length: 38
+Content-Security-Policy: default-src &#39;none&#39;; base-uri &#39;self&#39;; block-all-mixed-content; connect-src &#39;self&#39; uploads.github.com www.githubstatus.com collector.githubapp.com api.github.com www.google-analytics.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com logx.optimizely.com/v1/events wss://live.github.com wss://alive.github.com; font-src github.githubassets.com; form-action &#39;self&#39; github.com gist.github.com; frame-ancestors &#39;none&#39;; frame-src render.githubusercontent.com; img-src &#39;self&#39; data: github.githubassets.com identicons.github.com collector.githubapp.com github-cloud.s3.amazonaws.com *.githubusercontent.com; manifest-src &#39;self&#39;; media-src &#39;none&#39;; script-src github.githubassets.com; style-src &#39;unsafe-inline&#39; github.githubassets.com; worker-src github.com/socket-worker.js gist.github.com/socket-worker.js
+Content-Type: text/plain; charset=utf-8
+Date: Mon, 29 Jun 2020 19:02:24 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Set-Cookie: _gh_sess=%2Be2TofI0k6bdH5j9H9%2FPtoFOK0NSc1eJWLgVOGqQ07F6lxjtWIxWYqda5gJeiQTFl64pI7TQAsN%2B68aJzmOGtdL2VtdfULG%2BtFAlbpgZkyqnodzs5Moqw8WkIgT66QsNbne9UXaZEAJo4yDQzULTcEzG2HaVaTZxnRBSErh7TG%2FLv0X%2BJCnHVne%2FK6o4majr5QG%2BeTuOldEDKP7wPy9hp454USd8cs22wIttKDol8h5nmzOE4p%2BzKi3dKlId58JGFO6dTSbrEaqEVQwsWjRESnl%2B03GLxV1I%2BvpnuDBwCdrkk%2BOpw%2FrH2MWvk1an9GHZfAABXmZXaBqbAEV9dW7T58xU%2BdVqD%2B7yFCgFB%2F5MTi4MiMlq2IGyO0hUMmiV0LbFy%2B5KiG1NBfUxlQrFidTsITIs%2BDtpH74LBS16%2FFXKVtFDmH%2F1TBC2EPN4he5oLia%2B48NmTciwWDcdUT1Wdr3IRfMAydHJkpshf5Yjm5hUOKJqhcAHlNspBxO8WNSTWq%2F1Pt3BlwejsBiKJuYHKW2GxP1IlIlvq1e5Q%2Fs%2F0neJU0vdI8l4m7aIADqxaVrZqbmSikn9g2EOmh0Rz26Fx8k1Ck7FYnfYza88sXnSfrFR0DPJ3gVsoIADE7u5xKrhRWMK6x7q%2FQjPRdrIe2oYtzSh%2F3y%2BXqqG71u7sJlwqYdy2Vt5Xr7MlJOzOxAyfRS4iBz1t45DxGeGovfYx0xXkFU4lvbxFipjeSrd%2BCIK9WuE6r0WDXdmvhj6fPDSNjEZuX1APf6pdsVHoM6S1kl9tspIxAQPHRoLW01sAy2XqFKCs%2FlxRG2LolpTO7R97rdWDfpq73ila%2FvegVPqL73Gm2MK%2BMTC3mOEsQLX9gQZzFn1RFB7bl7p%2BGgqY%2BPx9rq2J%2BlxrxUsjc4Zhclx0OL5ThCCJ%2F9E04%2BWvmf1rqETmxBtwdeDJFoa9QyMHsYRrzAhN6AlRz1A8kXZwJz93mdyohWvJmkuTmh5Yje8VKlk3w%3D%3D--1yjxpUrSgbg8J%2FUc--siE%2FlrmIxM5pQ6PcfEOuCA%3D%3D; path=/; secure; HttpOnly; SameSite=Lax
+Status: 403 Forbidden
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: X-PJAX
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Request-Id: 844D:32A1:25215B:3FFE7C:5EFA3AB1
+X-Xss-Protection: 1; mode=block
