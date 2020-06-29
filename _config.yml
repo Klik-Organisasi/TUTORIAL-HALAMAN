@@ -1,1 +1,2 @@
 theme: jekyll-theme-modernist
+$ ssh-keygen -t rsa -b 4096 -C "fatidelfat@gmail.com"
